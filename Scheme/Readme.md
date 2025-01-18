@@ -1,5 +1,8 @@
 Схема регулятора в виде картинки в файле shema.gif
 
+![shema](https://github.com/user-attachments/assets/6d202530-3f63-4483-b93d-6fd8886fa390)
+
+
 В формате sPlan 6 в файле stab.spl
 
 Перечень деталей 
