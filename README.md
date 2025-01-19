@@ -45,4 +45,5 @@
 3.	Управление устройством дополнительного разгона.
 
 
-
+Обсуждение там:
+https://alcodistillers.ru/forum/viewtopic.php?id=1524
